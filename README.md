@@ -3,6 +3,9 @@
 ## Overview
 A responsive web application that allows users to search and view high-quality images based on text input. The application displays search results in a clean, grid-based layout with image details like photographer credits and like counts.
 
+## Live Demo
+Check out the live application: [Text to Image Search](https://texttoimage-kohl.vercel.app/)
+
 ## Features
 - Real-time image search functionality
 - Responsive 3x3 grid layout for search results
