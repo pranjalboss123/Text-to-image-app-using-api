@@ -1,4 +1,24 @@
-# React + Vite
+# Text to Image Search Application
+
+## Overview
+A responsive web application that allows users to search and view high-quality images based on text input. The application displays search results in a clean, grid-based layout with image details like photographer credits and like counts.
+
+## Features
+- Real-time image search functionality
+- Responsive 3x3 grid layout for search results
+- Image cards with photographer attribution
+- Like count display for each image
+- Dark mode support
+- Mobile-responsive design
+
+## Tech Stack
+- React.js for frontend development
+- Vite as the build tool
+- CSS Grid and Flexbox for layout
+- Pixabay API for image fetching
+- Environment variables for secure API key storage
+
+## Project Structure
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
